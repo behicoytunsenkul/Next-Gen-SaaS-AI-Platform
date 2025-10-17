@@ -18,6 +18,6 @@ The platform features a suite of specialized AI models, each optimized for speci
 With Synthor, the smartest way to create content is here.
 Is your organization ready to elevate its digital content strategy?
 
-** TOUCH THE FUTURE **
+*TOUCH THE FUTURE*
 <a href="https://synthor.net" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40" />
 
