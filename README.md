@@ -17,4 +17,6 @@ The platform features a suite of specialized AI models, each optimized for speci
 
 With Synthor, the smartest way to create content is here.
 Is your organization ready to elevate its digital content strategy?
-**synthor.net**
+
+<a href="https://synthor.net" target="blank"><a/>
+
