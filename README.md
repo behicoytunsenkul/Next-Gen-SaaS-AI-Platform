@@ -14,9 +14,10 @@ The platform features a suite of specialized AI models, each optimized for speci
 - ♾️ XHuman Generator: The future of digital interaction
 
 ![1757889998778](https://github.com/user-attachments/assets/52a355cd-0a0d-4883-ab47-d579f8f41be3)
-
+https://skillicons.dev/icons?i=git
 With Synthor, the smartest way to create content is here.
 Is your organization ready to elevate its digital content strategy?
 
-<a href="https://synthor.net" target="blank"><a/>
+
+<a href="https://synthor.net" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40" />
 
